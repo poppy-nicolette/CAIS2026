@@ -1,16 +1,15 @@
 ---
 title: Poppy Riddle
-role: ID PhD Program, Dalhousie University
+role: Information Science PhD Program, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
-bio: "I am a PhD student researching how searching for information may be improved. I am working at the intersection
- of information seeking behaviour, scientometrics, and human-computer interaction."
+bio: "I am a PhD candidate research the intersection of scholarly communications, information retrieval, and generative AI. My dissertation is on bibliometric metadata and how its characteristics and errors affect RAG retrieval and responses."
 
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:poppy.riddle@dal.ca'
+  link: 'mailto:pnriddle@dal.ca'
 - icon: cv
   link: authors/poppy_riddle_cv.pdf
 - icon: github
@@ -26,12 +25,11 @@ user_groups:
 
 # About me
 
-I am a PhD student at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html)  investigating the intersection of scholarly production and information seeking & retrieval behaviours. I am currently researching query formulation and reformulation are affected by conversational AI interfaces. 
-In my free time, I love being with my family, drawing and painting with my kiddo, roller skating, and stress baking!
+I am a PhD candidate at [Dalhousie University](https://www.dal.ca/faculty/management/school-of-information-management.html) where I am researching the intersection of scholarly communication, bibliometric metadata, and generative AI. My dissertation is about how bibliometric metadata's characteristics and errors affect the retrieval and response generation in retrieval-augmented generation (RAG) applications. 
 
 Interests:
 
-- Information search & retrieval
+- Scholarly Communications infrastructure
 - Biblliometrics and bibliometric-enhanced information retrieval (BIR)
-- Exploratory Search 
+- Bibliometric Metadata
 - Retrieval augmented generation (RAG)
