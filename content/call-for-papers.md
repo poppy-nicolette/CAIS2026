@@ -44,30 +44,19 @@ CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on e
 
 <strong>Panels:</strong> 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist.
 
-<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
+## Student research forum
+We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the forum will be provided when registration opens in March.
 
-<strong>Poster sizing </strong>: 36" x 48" (91.4 x 122cm) portrait orientation. 
-
-<strong>Virtual poster session information </strong>: Virtual poster presenters will be allocated a timeslot in the final program. While we do not provide specific requirements around dimensions and orientation, posters should resemble traditional print versions. See the 2021 CAIS program for examples [here](https://www.cais2021.ca/).
-
-Posters presenters who originally submitted a paper to the conference are welcome to shorten their submission to a 500-1,000 abstract for the conference proceedings.
 
 ## Submissions
 
-<strong>Submissions to CAIS 2025 are now closed.</strong>
-
-## Student research forum
-
-We are pleased to invite master’s and doctoral students at any stage of their program to CAIS’s Student Research Forum. The Forum aims to allow graduate students to discuss their research projects, get feedback, and connect with other students. Please be prepared to present informally on an aspect of your research for 5-10 minutes. More information about participating in the Forum will be provided when Registration opens in March.
-
-<strong>Submissions to the Student Research Forum are now closed.</strong>
+<strong>Submissions to CAIS 2026 are now open.</strong>
 
 ## Important dates 
 
-- <strong>Submission deadline</strong>: ~~January 8th, 2025.~~ ~~January 20th, 2025, midnight Pacific Time.~~ 
-- <strong>Notification of acceptance</strong>: ~~No later than March 15th, 2025.~~
-- <strong>Submission of final versions</strong>: ~~No later than April 30th, 2025.~~ Submit to the CAIS OJS [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).
-- <strong>Deadline to register</strong>: ~~May 16th, 2025.~~
-- <strong>Conference</strong>: May 27-29th, 2025.
+- <strong>Submission deadline</strong>: January 31
+- <strong>Peer reviews due:</strong> March 1
+- <strong>Notification of acceptance</strong>: March 23 
+- <strong>Submission of final versions</strong>: May 11 <br> Submit to the CAIS OJS [here](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/index).<br>
+- <strong>Deadline to register</strong>: TBD
 
-Please note that accepted presenters will have the choice of presenting in-person or virtually.
