@@ -1,6 +1,6 @@
 ---
-title: "Back to the Future: The 53rd Annual Conference of the Canadian Association for Information Science"
-date: "2018-06-28T00:00:00+01:00"
+title: "Information in Repair: The 54th Annual Conference of the Canadian Association for Information Science"
+date: "2025-10-20T00:00:00+01:00"
 draft: false
 share: false
 commentable: false
@@ -12,19 +12,9 @@ header:
   image: ""
 ---
 
-## Presenter Information
-<strong> Paper presentations</strong>: Presenters will have 25 minutes each: we advise a 15 minute presentation and 10 minutes for questions. All sessions will be hybrid and benefit from both in-person and online engagement. Each session has an assigned moderator and volunteer to assist with technology. You may connect to your slides via your personal computer, USB, or by sending your slides to conference@cais-acsi.ca: we will upload them to the website which you can also access from the classroom.
-
-<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
-
 ## Call for papers
 
-This year's theme, "Back to the Future" is a nod to our return to gathering **back in person** for the CAIS conference, after five years exclusively online. It also denotes the CAIS community’s over half-a-century tradition of conferring with other members of our interdisciplinary community about our shared values and mission, which we continually **return** to for guidance as our field evolves. Just as this theme roots us back to CAIS’ core principles of openness and inclusivity, it also turns our minds towards the **future** of our field. It asks: how do we draw on and learn from our past to shape our future? The researchers and practitioners comprising our community may consider where we came from, where we are going, and the threads that unite past and future, as we gather as an academic community in the present.
-
-CAIS is committed to embracing diversity and incorporating a range of perspectives in the field of information science. We invite researchers, practitioners, and students to join us in exploring the many facets of information science and its impact on individuals, communities, and society as a whole. 
-
-We encourage submissions that showcase a range of methodologies, theoretical perspectives, and areas of focus, including but not limited to:
-
+This year’s theme, “Information in Repair,” centers the maintenance and reparative work that is always required, but rarely lauded, across information systems. Scholarly attention and resources are often directed towards the new and novel, the conceptualization and design of innovative systems and interventions. This tendency risks ignoring opportunities to learn from the vast amount of knowledge, practice and technical expertise that goes into monitoring, adjusting, and navigating changes within critical, long-term components of longer-term/ongoing/continuing information systems. We are particularly interested in information science perspectives on practices of disposability or reuse, of reparative work, and theories of repair. We invite creative and expansive views of what is being repaired and maintained, as well as exploration of repair itself as information work. As CAIS seeks to be a home for information science across Canada, our yearly conference routinely develops and supports scholarship in:
 - Information seeking and behaviour
 - Information literacy and education
 - Knowledge management and organization
@@ -35,13 +25,26 @@ We encourage submissions that showcase a range of methodologies, theoretical per
 - Cultural heritage and preservation
 - Health information management
 - Diversity, equity, and inclusion in information science
+Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
 
-## Types of submissions
+
+## Types of proposals
+
+CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo peer review. Paper and lightning talks should be anonymized for submission; panel submissions will include identifying information.
 
 - <strong>Full paper</strong>: 2000-3000 words excluding references. 
 - <strong>Work in progress</strong>: 1000-2000 words excluding references.
 - <strong>Poster</strong>: 500-1000 words excluding references.
 - <strong>Panel</strong>: 500-1000 words excluding references.
+
+## Presenter Information
+<strong>Papers:</strong> 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). 
+
+<strong>Lightning Talks:</strong> 5-minute oral presentations covering a single element of a work in progress, or a new idea. Lightning talk proposals aiming to cover an entire research project will not be accepted. The purpose of a lightning talk is to start a discussion, receive input on an idea, or find collaborators. Proposals should be in the form of a 250-word abstract (excluding references). 
+
+<strong>Panels:</strong> 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist.
+
+<strong> Virtual poster presenters</strong>: Presenters at the virtual poster session will each have 5 minutes to present, and approximately 5 minutes for questions. Please share your poster via screenshare when presenting over Zoom. Links will be made available on the conference website. This session will be moderated.
 
 <strong>Poster sizing </strong>: 36" x 48" (91.4 x 122cm) portrait orientation. 
 
