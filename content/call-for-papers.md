@@ -33,8 +33,7 @@ Diverse and innovative perspectives (theoretical and applied) and methodologies 
 CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo peer review. Paper and lightning talks should be anonymized for submission; panel submissions will include identifying information.
 
 - <strong>Full paper</strong>: 2000-3000 words excluding references. 
-- <strong>Work in progress</strong>: 1000-2000 words excluding references.
-- <strong>Poster</strong>: 500-1000 words excluding references.
+- <strong>Lightning Talks>: 500-1000 words excluding references.
 - <strong>Panel</strong>: 500-1000 words excluding references.
 
 ## Presenter Information
