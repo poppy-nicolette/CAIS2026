@@ -1,3 +1,6 @@
+[build]
+  command = "git submodule update --init --recursive && hugo --gc --minify -b $URL"
+
 [build.environment]
 DART_SASS_VERSION = "1.93.2"
 GO_VERSION = "1.25.3"
