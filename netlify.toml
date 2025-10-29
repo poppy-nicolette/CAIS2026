@@ -25,7 +25,4 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+
